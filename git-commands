@@ -1,0 +1,11 @@
+#To setup git https://help.github.com/articles/set-up-git/
+
+git status
+git add python-learning/test.py
+git commit python-learning/test.py -m "test"
+git push -u origin master
+To check on UI: https://github.com/huzefa53/python-learning/tree/master/python-learning
+To check from command prompt
+
+git ls-tree --full-tree -r HEAD OR git ls-files
+OR ./git-ls https://github.com/huzefa53/python-learning/tree/master/python-learning
